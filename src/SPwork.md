@@ -210,4 +210,4 @@ useやgenderがkey、太郎や男がvalue、keyを指定することでvalueを�
 ### 全項目共通引用
 
 > ・https://developer.mozilla.org/ja/  （MDN）  
-> ・https://wa3.i-3-i.info/index.html（わわわさんIT用語辞典）
+> ・https://wa3.i-3-i.info/index.html （わわわさんIT用語辞典）
